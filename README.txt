@@ -8,7 +8,7 @@ TURN ON EMAIL DELIVERY OF FORMS (2 minutes, free):
 3. Upload app.js again. Both forms (shipping request + driver application) now arrive by email.
 Until the key is added, the forms still work: visitors get "Send by text" and "Call" buttons with their details prefilled.
 
-PRIVACY POLICY: privacy-policy.html  ->  https://wdm.express/privacy-policy.html
+PRIVACY POLICY: privacy-policy.html  ->  https://wdm.express/privacy-policy
 (use this link for SMS / TCR 10DLC registration; both forms have an optional SMS consent checkbox).
 Forms also offer "Send by email" to dispatch@wdm.express until the Web3Forms key is added.
 
